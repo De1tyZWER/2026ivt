@@ -13,11 +13,11 @@
 
 <h2>Структура</h2>
 <ul>
-  <li><code>/teoria</code> — краткие конспекты по темам ОГЭ</li>
-  <li><code>/zadaniya</code> — тренировочные задания по номерам</li>
-  <li><code>/resheniya</code> — пошаговые решения типовых задач</li>
-  <li><code>/domashnie</code> — домашние задания по неделям</li>
-  <li><code>/spravka</code> — шпаргалки, таблицы, полезные ссылки</li>
+  <li><code>/theory</code> — краткие конспекты по темам ОГЭ</li>
+  <li><code>/tasks</code> — тренировочные задания по номерам</li>
+  <li><code>/solutions</code> — пошаговые решения типовых задач</li>
+  <li><code>/homework</code> — домашние задания по неделям</li>
+  <li><code>/reference</code> — шпаргалки, таблицы, полезные ссылки</li>
 </ul>
 
 <h2>Примечание</h2>
